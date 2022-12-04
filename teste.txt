@@ -1,0 +1,1 @@
+Este arquivo é destinado apenas para teste de encriptação e desencriptação
